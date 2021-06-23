@@ -7,3 +7,6 @@ A repository to host useful icons for your project readmes
 
 An example of usage: https://raw.githubusercontent.com/marsibarsi/readme-icons/main/twitter.svg
 
+---
+
+Icons made by [Feather Icons](https://github.com/feathericons/feather)
